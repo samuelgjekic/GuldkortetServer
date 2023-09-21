@@ -4,3 +4,5 @@ value with the database tables. This server is designed to handle all errors and
 with the database tables, the server returns a message to the client.
 
 The return message varies depending on whether the server found any matches in the database tables.
+
+Default IP is "127.0.0.1" and port is "12345"
